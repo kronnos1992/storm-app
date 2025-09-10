@@ -8,7 +8,7 @@ microsservice para gestão de frotas crm
 
 ### Serviço de Clientes
 
-* -> Cadastro de alunos.
+* -> Cadastro de alunos
 
 * -> Cadastro de responsáveis (pais/mães/tutores).
 
